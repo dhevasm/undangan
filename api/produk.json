@@ -1,0 +1,26 @@
+[
+    {
+        "nama" : "produk",
+        "deskripsi" : "api produk ini menggunakan sistem id"
+    },
+    {
+        "nama" : "undangan",
+        "harga" : "500",
+        "deskripsi" : "Rp. 500,00 / lembar",
+        "cover" : "img/undangan.png"
+    },
+    {
+        "nama" : "banner",
+        "harga" : "40000",
+        "deskripsi" : "Rp. 40.000,00 / meter",
+        "cover" : "img/banner.jpg"
+    },
+    {
+        "nama" : "yasin",
+        "harga" : "6000",
+        "deskripsi" : "Rp. 6.000,00 / buku",
+        "cover" : "img/yasin.jpg"
+    },{
+        "nama" : "tes"
+    }
+]
